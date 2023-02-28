@@ -1,0 +1,2 @@
+# PRML-imageclassification
+prml作业利用简单的模型实现对fashion-minist的分类练习
